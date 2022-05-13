@@ -31,3 +31,4 @@ git commit
 
 ![KTM](https://media.zigcdn.com/media/model/2020/Mar/ktm-rc-390-bs6-right-side-view_270x180.jpg)
 
+[new page](newPage.md)
